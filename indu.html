@@ -1,0 +1,60 @@
+<html>
+<head>
+    <title>Student Registration Form</title>
+</head>
+<body>
+    <h2>STUDENT REG FORM</h2>
+    <form>
+        Name : <input type="text" name="name" size="50"><br><br>
+        Password : <input type="password" name="pwd"><br><br>
+        Father Name : <input type="text" name="father_name" size="50"><br><br>
+        D.O.B : <input type="date" name="dob"><br><br>
+        Gender :
+        <input type="radio" name="Gender" value="male"> Male
+        <input type="radio" name="Gender" value="female"> Female
+        <br><br>
+        Address: <textarea rows="2" cols="30"></textarea><br><br>
+        Email ID : <input type="email" name="email"><br><br>
+
+        <h3>Examination details:</h3>
+        <table class="stu" border="1" align="center">
+            <tr>
+                <th>Examination passed</th>
+                <th>Specialization</th>
+                <th>Board University</th>
+                <th>% of marks</th>
+            </tr>
+            <tr>
+                <td>SSC-10th std</td>
+                <td>-</td>
+                <td><input type="text" name="ssc_board"></td>
+                <td><input type="text" name="ssc_marks"></td>
+            </tr>
+            <tr>
+                <td>INTER</td>
+                <td>
+                    <select name="courses">
+                        <option>MPC</option>
+                        <option>BiPC</option>
+                        <option>MEC</option>
+                    </select>
+                </td>
+                <td><input type="text" name="inter_board"></td>
+                <td><input type="text" name="inter_marks"></td>
+            </tr>
+            <tr>
+                <td>ENGG</td>
+                <td>
+                    <select name="branches">
+                        <option>CSE</option>
+                        <option>ECE</option>
+                        <option>EEE</option>
+                    </select>
+                </td>
+                <td><input type="text" name="engg_board"></td>
+                <td><input type="text" name="engg_marks"></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
