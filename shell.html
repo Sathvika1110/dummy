@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      text-align: center;
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      padding: 30px;
+    }
+    p {
+      margin: 10px 0;
+      font-size: 18px;
+    }
+    p::before {
+      content: attr(data-label) ": ";
+      color: #c0392b;
+      font-weight: bold;
+    }
+    p {
+      color: #2980b9;
+    }
+  </style>
+</head>
+<body>
+  <h2>Student Details</h2>
+  <p data-label="Name">Sathvika</p>
+  <p data-label="Age">22</p>
+  <p data-label="Department">CSE</p>
+</body>
+</html>
+
