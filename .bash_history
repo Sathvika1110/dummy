@@ -102,3 +102,20 @@ git push origin master
 sudo systemctl enable jenkins
 ko
 .io
+git init
+git remote add origin "https://github.com/Sathvika1110/xam.git"
+git config --global user.email"245122748009@mvsrec.edu.in" 
+git config --global user.name"Sathvika1110" 
+vi he.py
+git status
+git add .
+git commit -m "fccc"
+git status
+git push origin master
+git pull origin master
+git config pull.rebase false  # merge
+hint:   git config pull.rebase true   # rebase
+hint:   git config pull.ff only  
+git config pull.rebase false
+git push origin master
+git pull origin master

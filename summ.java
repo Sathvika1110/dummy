@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SumAndAverage {
+public class summ{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int sum = 0;

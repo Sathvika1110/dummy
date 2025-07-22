@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1753179000,,"wq"
+|2,0,1753179535,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,34 +25,78 @@
 # Registers:
 
 # File marks:
-'0  1  13  ~/he.py
-|4,48,1,13,1753179000,"~/he.py"
-'1  1  13  ~/x.py
-|4,49,1,13,1749445893,"~/x.py"
-'2  23  0  ~/summ.java
-|4,50,23,0,1749388964,"~/summ.java"
-'3  1  0  ~/summ.java
-|4,51,1,0,1749388740,"~/summ.java"
-'4  1  0  ~/summ.java
-|4,52,1,0,1749388740,"~/summ.java"
-'5  32  0  ~/shell.html
-|4,53,32,0,1749381548,"~/shell.html"
-'6  32  0  ~/shell.css
-|4,54,32,0,1749381165,"~/shell.css"
-'7  41  0  ~/inde.html
-|4,55,41,0,1749380349,"~/inde.html"
-'8  2  0  ~/sum.java
-|4,56,2,0,1749380282,"~/sum.java"
-'9  3  14  ~/sum.java
-|4,57,3,14,1749378914,"~/sum.java"
+'0  1  13  ~/ku.py
+|4,48,1,13,1753179535,"~/ku.py"
+'1  1  13  ~/he.py
+|4,49,1,13,1753179522,"~/he.py"
+'2  1  13  ~/he.py
+|4,50,1,13,1753179000,"~/he.py"
+'3  1  13  ~/x.py
+|4,51,1,13,1749445893,"~/x.py"
+'4  23  0  ~/summ.java
+|4,52,23,0,1749388964,"~/summ.java"
+'5  1  0  ~/summ.java
+|4,53,1,0,1749388740,"~/summ.java"
+'6  1  0  ~/summ.java
+|4,54,1,0,1749388740,"~/summ.java"
+'7  32  0  ~/shell.html
+|4,55,32,0,1749381548,"~/shell.html"
+'8  32  0  ~/shell.css
+|4,56,32,0,1749381165,"~/shell.css"
+'9  41  0  ~/inde.html
+|4,57,41,0,1749380349,"~/inde.html"
 
 # Jumplist (newest first):
+-'  1  13  ~/ku.py
+|4,39,1,13,1753179535,"~/ku.py"
+-'  1  13  ~/he.py
+|4,39,1,13,1753179522,"~/he.py"
+-'  1  13  ~/he.py
+|4,39,1,13,1753179522,"~/he.py"
+-'  1  13  ~/he.py
+|4,39,1,13,1753179000,"~/he.py"
 -'  1  13  ~/he.py
 |4,39,1,13,1753179000,"~/he.py"
 -'  1  13  ~/x.py
 |4,39,1,13,1749445893,"~/x.py"
 -'  1  13  ~/x.py
 |4,39,1,13,1749445893,"~/x.py"
+-'  1  13  ~/x.py
+|4,39,1,13,1749445893,"~/x.py"
+-'  1  13  ~/x.py
+|4,39,1,13,1749445893,"~/x.py"
+-'  1  13  ~/x.py
+|4,39,1,13,1749445893,"~/x.py"
+-'  1  13  ~/x.py
+|4,39,1,13,1749445893,"~/x.py"
+-'  1  13  ~/x.py
+|4,39,1,13,1749445893,"~/x.py"
+-'  1  13  ~/x.py
+|4,39,1,13,1749445893,"~/x.py"
+-'  23  0  ~/summ.java
+|4,39,23,0,1749388964,"~/summ.java"
+-'  23  0  ~/summ.java
+|4,39,23,0,1749388964,"~/summ.java"
+-'  23  0  ~/summ.java
+|4,39,23,0,1749388964,"~/summ.java"
+-'  23  0  ~/summ.java
+|4,39,23,0,1749388964,"~/summ.java"
+-'  23  0  ~/summ.java
+|4,39,23,0,1749388964,"~/summ.java"
+-'  23  0  ~/summ.java
+|4,39,23,0,1749388964,"~/summ.java"
+-'  23  0  ~/summ.java
+|4,39,23,0,1749388964,"~/summ.java"
+-'  23  0  ~/summ.java
+|4,39,23,0,1749388964,"~/summ.java"
+-'  23  0  ~/summ.java
+|4,39,23,0,1749388964,"~/summ.java"
+-'  23  0  ~/summ.java
+|4,39,23,0,1749388964,"~/summ.java"
+-'  23  0  ~/summ.java
+|4,39,23,0,1749388964,"~/summ.java"
+-'  23  0  ~/summ.java
+|4,39,23,0,1749388964,"~/summ.java"
 -'  23  0  ~/summ.java
 |4,39,23,0,1749388964,"~/summ.java"
 -'  23  0  ~/summ.java
@@ -69,6 +113,54 @@
 |4,39,1,0,1749388888,"~/summ.java"
 -'  1  0  ~/summ.java
 |4,39,1,0,1749388888,"~/summ.java"
+-'  1  0  ~/summ.java
+|4,39,1,0,1749388888,"~/summ.java"
+-'  1  0  ~/summ.java
+|4,39,1,0,1749388888,"~/summ.java"
+-'  1  0  ~/summ.java
+|4,39,1,0,1749388888,"~/summ.java"
+-'  1  0  ~/summ.java
+|4,39,1,0,1749388888,"~/summ.java"
+-'  1  0  ~/summ.java
+|4,39,1,0,1749388888,"~/summ.java"
+-'  1  0  ~/summ.java
+|4,39,1,0,1749388888,"~/summ.java"
+-'  1  0  ~/summ.java
+|4,39,1,0,1749388888,"~/summ.java"
+-'  1  0  ~/summ.java
+|4,39,1,0,1749388888,"~/summ.java"
+-'  1  0  ~/summ.java
+|4,39,1,0,1749388888,"~/summ.java"
+-'  1  0  ~/summ.java
+|4,39,1,0,1749388888,"~/summ.java"
+-'  1  0  ~/summ.java
+|4,39,1,0,1749388888,"~/summ.java"
+-'  1  0  ~/summ.java
+|4,39,1,0,1749388888,"~/summ.java"
+-'  1  0  ~/summ.java
+|4,39,1,0,1749388740,"~/summ.java"
+-'  1  0  ~/summ.java
+|4,39,1,0,1749388740,"~/summ.java"
+-'  1  0  ~/summ.java
+|4,39,1,0,1749388740,"~/summ.java"
+-'  1  0  ~/summ.java
+|4,39,1,0,1749388740,"~/summ.java"
+-'  1  0  ~/summ.java
+|4,39,1,0,1749388740,"~/summ.java"
+-'  1  0  ~/summ.java
+|4,39,1,0,1749388740,"~/summ.java"
+-'  1  0  ~/summ.java
+|4,39,1,0,1749388740,"~/summ.java"
+-'  1  0  ~/summ.java
+|4,39,1,0,1749388740,"~/summ.java"
+-'  1  0  ~/summ.java
+|4,39,1,0,1749388740,"~/summ.java"
+-'  1  0  ~/summ.java
+|4,39,1,0,1749388740,"~/summ.java"
+-'  1  0  ~/summ.java
+|4,39,1,0,1749388740,"~/summ.java"
+-'  1  0  ~/summ.java
+|4,39,1,0,1749388740,"~/summ.java"
 -'  1  0  ~/summ.java
 |4,39,1,0,1749388740,"~/summ.java"
 -'  1  0  ~/summ.java
@@ -109,149 +201,64 @@
 |4,39,32,0,1749381548,"~/shell.html"
 -'  32  0  ~/shell.html
 |4,39,32,0,1749381548,"~/shell.html"
--'  1  0  ~/shell.html
-|4,39,1,0,1749381528,"~/shell.html"
--'  1  0  ~/shell.html
-|4,39,1,0,1749381528,"~/shell.html"
--'  1  0  ~/shell.html
-|4,39,1,0,1749381528,"~/shell.html"
--'  1  0  ~/shell.html
-|4,39,1,0,1749381528,"~/shell.html"
--'  1  0  ~/shell.html
-|4,39,1,0,1749381528,"~/shell.html"
--'  1  0  ~/shell.html
-|4,39,1,0,1749381528,"~/shell.html"
--'  1  0  ~/shell.html
-|4,39,1,0,1749381528,"~/shell.html"
--'  1  0  ~/shell.html
-|4,39,1,0,1749381528,"~/shell.html"
--'  1  0  ~/shell.html
-|4,39,1,0,1749381528,"~/shell.html"
--'  1  0  ~/shell.html
-|4,39,1,0,1749381528,"~/shell.html"
--'  1  0  ~/shell.html
-|4,39,1,0,1749381528,"~/shell.html"
--'  1  0  ~/shell.html
-|4,39,1,0,1749381528,"~/shell.html"
--'  1  0  ~/shell.html
-|4,39,1,0,1749381528,"~/shell.html"
--'  1  0  ~/shell.html
-|4,39,1,0,1749381528,"~/shell.html"
--'  1  0  ~/shell.html
-|4,39,1,0,1749381528,"~/shell.html"
--'  1  0  ~/shell.html
-|4,39,1,0,1749381528,"~/shell.html"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  32  0  ~/shell.css
-|4,39,32,0,1749381165,"~/shell.css"
--'  1  0  ~/shell.css
-|4,39,1,0,1749381156,"~/shell.css"
--'  1  0  ~/shell.css
-|4,39,1,0,1749381156,"~/shell.css"
--'  1  0  ~/shell.css
-|4,39,1,0,1749381156,"~/shell.css"
--'  1  0  ~/shell.css
-|4,39,1,0,1749381156,"~/shell.css"
--'  1  0  ~/shell.css
-|4,39,1,0,1749381156,"~/shell.css"
--'  1  0  ~/shell.css
-|4,39,1,0,1749381156,"~/shell.css"
--'  1  0  ~/shell.css
-|4,39,1,0,1749381156,"~/shell.css"
--'  1  0  ~/shell.css
-|4,39,1,0,1749381156,"~/shell.css"
--'  1  0  ~/shell.css
-|4,39,1,0,1749381156,"~/shell.css"
--'  1  0  ~/shell.css
-|4,39,1,0,1749381156,"~/shell.css"
--'  1  0  ~/shell.css
-|4,39,1,0,1749381156,"~/shell.css"
--'  1  0  ~/shell.css
-|4,39,1,0,1749381156,"~/shell.css"
--'  1  0  ~/shell.css
-|4,39,1,0,1749381156,"~/shell.css"
--'  1  0  ~/shell.css
-|4,39,1,0,1749381156,"~/shell.css"
--'  1  0  ~/shell.css
-|4,39,1,0,1749381156,"~/shell.css"
--'  1  0  ~/shell.css
-|4,39,1,0,1749381156,"~/shell.css"
--'  1  0  ~/shell.css
-|4,39,1,0,1749381156,"~/shell.css"
--'  1  0  ~/shell.css
-|4,39,1,0,1749381156,"~/shell.css"
--'  1  0  ~/shell.css
-|4,39,1,0,1749381156,"~/shell.css"
--'  1  0  ~/shell.css
-|4,39,1,0,1749381156,"~/shell.css"
--'  1  0  ~/shell.css
-|4,39,1,0,1749381156,"~/shell.css"
+-'  32  0  ~/shell.html
+|4,39,32,0,1749381548,"~/shell.html"
+-'  32  0  ~/shell.html
+|4,39,32,0,1749381548,"~/shell.html"
+-'  32  0  ~/shell.html
+|4,39,32,0,1749381548,"~/shell.html"
+-'  32  0  ~/shell.html
+|4,39,32,0,1749381548,"~/shell.html"
+-'  32  0  ~/shell.html
+|4,39,32,0,1749381548,"~/shell.html"
+-'  32  0  ~/shell.html
+|4,39,32,0,1749381548,"~/shell.html"
+-'  32  0  ~/shell.html
+|4,39,32,0,1749381548,"~/shell.html"
+-'  32  0  ~/shell.html
+|4,39,32,0,1749381548,"~/shell.html"
+-'  32  0  ~/shell.html
+|4,39,32,0,1749381548,"~/shell.html"
+-'  32  0  ~/shell.html
+|4,39,32,0,1749381548,"~/shell.html"
+-'  32  0  ~/shell.html
+|4,39,32,0,1749381548,"~/shell.html"
+-'  32  0  ~/shell.html
+|4,39,32,0,1749381548,"~/shell.html"
+-'  32  0  ~/shell.html
+|4,39,32,0,1749381548,"~/shell.html"
+-'  32  0  ~/shell.html
+|4,39,32,0,1749381548,"~/shell.html"
+-'  32  0  ~/shell.html
+|4,39,32,0,1749381548,"~/shell.html"
+-'  32  0  ~/shell.html
+|4,39,32,0,1749381548,"~/shell.html"
+-'  32  0  ~/shell.html
+|4,39,32,0,1749381548,"~/shell.html"
+-'  32  0  ~/shell.html
+|4,39,32,0,1749381548,"~/shell.html"
+-'  32  0  ~/shell.html
+|4,39,32,0,1749381548,"~/shell.html"
+-'  32  0  ~/shell.html
+|4,39,32,0,1749381548,"~/shell.html"
+-'  32  0  ~/shell.html
+|4,39,32,0,1749381548,"~/shell.html"
+-'  32  0  ~/shell.html
+|4,39,32,0,1749381548,"~/shell.html"
+-'  32  0  ~/shell.html
+|4,39,32,0,1749381548,"~/shell.html"
 
 # History of marks within files (newest to oldest):
 
+> ~/ku.py
+	*	1753179534	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
 > ~/he.py
-	*	1753178999	0
+	*	1753179520	0
 	"	1	13
 	^	1	14
 	.	1	13
